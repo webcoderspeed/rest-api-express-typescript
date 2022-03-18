@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "outDir": "build",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  }
+}
